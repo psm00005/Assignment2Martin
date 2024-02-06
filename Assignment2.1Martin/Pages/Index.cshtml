@@ -2,11 +2,27 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
 }
+<h1></h1>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
 
-<a href="/SearchResults">Search Results</a>
+
+<form>
+    
+    <div>
+        
+        <label for="locInp" class="form-label">Where are you?</label>
+    <input type ="text" id="locInp" class="form-control"/>
+    </div>
+
+    <div>
+    <label for="findDate" class="form-label">What date are you looking for?</label>
+    <input type="date" id="findDate"/>
+    </div>
+
+  <div>
+    <a href="/SearchResults" button class="btn btn-primary">Search Results</a>
+    </div>
+
+</form>
