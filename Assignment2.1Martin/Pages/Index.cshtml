@@ -1,10 +1,14 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "WeatherChecker";
 
 }
-<h1></h1>
+<h1 > Welcome to Weather Checker!</h1 >
+<head>
+    <link rel="stylesheet" href="site.css">
+</head>
+
 
 
 
@@ -12,17 +16,28 @@
     
     <div>
         
-        <label for="locInp" class="form-label">Where are you?</label>
+        <h2 for="locInp" class="form-label" style="color:white;">Where are you?</h2>
     <input type ="text" id="locInp" class="form-control"/>
     </div>
 
     <div>
-    <label for="findDate" class="form-label">What date are you looking for?</label>
+        <h2 for="findDate" class="form-label" style="color:white;">What date are you looking for?</h2>
     <input type="date" id="findDate"/>
     </div>
 
-  <div>
+    
+    <button type="button"
+            onclick="document.getElementById('demo').innerHTML = Date()">
+        Click to Display Date and Time.
+    </button>
+    <p id="demo"></p>
+
+    
+
+
+    <div>
     <a href="/SearchResults" button class="btn btn-primary">Search Results</a>
     </div>
+
 
 </form>
