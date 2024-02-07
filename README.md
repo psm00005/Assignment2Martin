@@ -77,4 +77,4 @@
   - https://docs.google.com/document/d/10UUzYDLqXBcZ1TQFKcTaTNVUjrs3oZCRuUalYW9JN7c/edit?usp=sharing
 
   ## Reflection on Resources
-  - Originally I had a very hard time locating the sources I would need to create this project, but after watching the proffesors explanation of the homework on YouTube I had a much easier time with the project. The explanation really helped me understand exactly what the project was asking of me and where to find the information if I encountered a challenge. Overall, I used W3schools the most along with the YouTube video, and only used ChatGPT for the formating the README with the data I already held.
+  - Originally, I had a very hard time locating the sources I would need to create this project, but after watching the proffesors explanation of the homework on YouTube I had a much easier time with the project. The explanation really helped me understand exactly what the project was asking of me and where to find the information, if I encountered a challenge. Overall, I used W3schools the most along with the YouTube video, and only used ChatGPT for the formating in the README with the data I already held.
