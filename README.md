@@ -1,1 +1,16 @@
-# Heading 1
+# MIST 353 Assignment 2: Prototype Development and Research for Web Application
+**Due Date**: Febuary 6th, 2024
+
+## Competitive Analysis
+-While researching websites that have interactive sea level maps, I found a very interesting map created by NOAA. The map has a lot of user interactivity, such as a sliding sea level bar that lowers and raises the height of the seas. The website also features multiple interactive buttons that show areas of risk, marsh migrations, and flooding caused by high tides. Upon inspecting the website, I noticed the code was organized with blocks of comments, and featured many `(div)`’s that also organized the code. The URL for the website also featured a `#` which ported me to the different pages featured on the websites, just by clicking the buttons on the side. [NOAA Sea Level Map](https://coast.noaa.gov/slr/#/layer/slr/0/-7739031.680067714/4471167.013201389/6/satellite/none/0.8/2050/interHigh/midAccretion)
+
+-Additional research led to the discovery of the weather radar map on the site “weather.com”. The site features an interactive and animated map that shows the past, present, and future forecasts for the weather. Multiple buttons also change between the pages of the map taking you to different sections of the website. When I inspected the website I could see that it features `(class)` and `(id)` code which are implemented into my code as well. I would like to emulate the radar feature of this website to accurately return impactful weather data. [Weather.com Interactive Radar Map](https://weather.com/)
+
+-Another website I found to be useful was the AccuWeather website as it allowed me to gain another perspective into an interactive web design. I enjoyed the air quality map on the website as well as the “Health & Activities” page because it was easier to navigate compared to the “weather.com” website. Inspecting the AccuWeather website gave me insight into how the website was structured and it was similarly structured to the other websites with the utilization of containers and classes. [AccuWeather Website](https://www.accuweather.com/en/us/morgantown/26505/air-quality-index/331473)
+
+## GitHub Repository Research
+
+-Looking at this GitHub repository showed me a simple weather app that aligns with the example I was trying to create. It hosts a search bar for your location, a weather forecast for your geolocation, and it shows the temperature and humidity. The index for the repository featured many of the same snippets of code we have done in class such as `(div)`, `(h1)`, `(class)`, `(input)`, etc. The README was very short, lacked in-depth explanations of how their program worked and did not provide any sources. The photo, however, in the README helped show their program and the features it contained. [GitHub - b0oml/WeatherApp](https://github.com/b0oml/WeatherApp/blob/master/README.md)
+
+-This GitHub repository provided helpful examples for the future by showing me the code that would allow me to locate a user based on what they put in the search bar. It is a basic weather app that shows the humidity, air pressure, temperature, and future forecast. This repository’s README is helpful as it shows multiple pictures of what the app is capable of as well as explaining what the app can accomplish. Furthermore, the app creator displays their future plans for the app in the README. [GitHub - Banana021s/Weather-Center](https://github.com/Banana021s/Weather-Center/blob/master/README.md)
+
