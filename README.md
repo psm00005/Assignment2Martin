@@ -49,3 +49,22 @@
 - Explored another GitHub repository featuring a basic weather app displaying humidity, air pressure, temperature, and future forecasts.
 - Appreciated the README for its inclusion of multiple pictures illustrating the app's capabilities and detailed explanations, including the developer's future plans.
 - [GitHub - Banana021s/Weather-Center](https://github.com/Banana021s/Weather-Center/blob/master/README.md)
+
+### Additional Resources
+- Used the W3schools HTML Input Types webpage to learn how to implement a search bar into the website.
+  [W3schools HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
+
+- Used Bootswatch’s Solar default button to add the search button and used the solar theme for the website as well.
+  [Bootswatch](https://bootswatch.com/)
+
+- Used the W3schools HTML DIV example to learn how to create containers and make my website more organized.
+  [W3schools HTML DIV Example](https://www.w3schools.com/html/html_div.asp)
+
+- Used W3schools HTML CSS examples to edit the colors of my text with Inline CSS. Another thing I used was the CSS font-family and font-size properties off the same webpage.
+  [W3schools HTML CSS Examples](https://www.w3schools.com/html/html_css.asp)
+
+- Used HTML Javascript to create a button that displayed the date and time.
+  [W3schools HTML JavaScript](https://www.w3schools.com/html/html_scripts.asp)
+
+- Used (altacademy.com) to learn how to center a header in HTML.
+  [Center a Header in HTML](https://www.altcademy.com/blog/how-to-center-header-in-html/)
