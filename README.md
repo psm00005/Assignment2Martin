@@ -68,3 +68,13 @@
 
 - Used (altacademy.com) to learn how to center a header in HTML.
   [Center a Header in HTML](https://www.altcademy.com/blog/how-to-center-header-in-html/)
+
+  ## Future Enhancements 
+  - The future of this application largely depends on the upkeep and development of the location gathering capabilities, the development of an interactrive map, and the development of a cleaner looking website.
+
+  ## AI Prompts
+  - I had ChatGPT help me put my writings from my google doc into markdown, only for the research summary and the competitive analysis.
+  - https://docs.google.com/document/d/10UUzYDLqXBcZ1TQFKcTaTNVUjrs3oZCRuUalYW9JN7c/edit?usp=sharing
+
+  ## Reflection on Resources
+  - Originally I had a very hard time locating the sources I would need to create this project, but after watching the proffesors explanation of the homework on YouTube I had a much easier time with the project. The explanation really helped me understand exactly what the project was asking of me and where to find the information if I encountered a challenge. Overall, I used W3schools the most along with the YouTube video, and only used ChatGPT for the formating the README with the data I already held.
