@@ -14,3 +14,38 @@
 
 -This GitHub repository provided helpful examples for the future by showing me the code that would allow me to locate a user based on what they put in the search bar. It is a basic weather app that shows the humidity, air pressure, temperature, and future forecast. This repository’s README is helpful as it shows multiple pictures of what the app is capable of as well as explaining what the app can accomplish. Furthermore, the app creator displays their future plans for the app in the README. [GitHub - Banana021s/Weather-Center](https://github.com/Banana021s/Weather-Center/blob/master/README.md)
 
+## Project Overview
+-My porject currently is in its prototype form. It is an app that will use weather data to display future estimates for weather and climate forecasts for people wanting to visaulize the changing enviroment due to global warming.
+
+## Page Descriptions
+-The concept for the homepage is a webpage that asks the user for their location and chosen date, then gives the user future weather forecasts and climate data for their geoloaction.
+
+-The concept for the search results page is currently an interactive map that you will be able to place filters on to look at other weather/climate related data.
+
+-At the moment both of these concepts are in production so both are lacking in technical aspects.
+
+## Research Summary
+### NOAA Sea Level Map
+- Discovered an interactive sea level map by NOAA with features like a sliding sea level bar and buttons indicating areas of risk, marsh migrations, and flooding.
+- Noticed well-organized code with comments and `(div)` elements. The URL structure includes a `#` for navigating different pages.
+- [NOAA Sea Level Map](https://coast.noaa.gov/slr/#/layer/slr/0/-7739031.680067714/4471167.013201389/6/satellite/none/0.8/2050/interHigh/midAccretion)
+
+### Weather.com Interactive Radar Map
+- Discovered an animated weather radar map on weather.com with past, present, and future forecasts.
+- Identified the use of `(class)` and `(id)` code for implementation. Expresses a desire to replicate the radar feature for accurate weather data.
+- [Weather.com Interactive Radar Map](https://weather.com/)
+
+### AccuWeather Website
+- Explored the AccuWeather website, finding it useful for gaining insights into interactive web design.
+- Liked the air quality map and user-friendly "Health & Activities" page. Noted structural similarities with other websites, utilizing containers and classes.
+- [AccuWeather Website](https://www.accuweather.com/en/us/morgantown/26505/air-quality-index/331473)
+
+### GitHub - b0oml/WeatherApp
+- Examined a GitHub repository showcasing a simple weather app with a location search bar, weather forecast, and temperature/humidity display.
+- Observed common code elements like `(div)`, `(h1)`, `(class)`, and `(input)`. Criticized the README for its brevity and lack of in-depth explanations.
+- [GitHub - b0oml/WeatherApp](https://github.com/b0oml/WeatherApp/blob/master/README.md)
+
+### GitHub - Banana021s/Weather-Center
+- Explored another GitHub repository featuring a basic weather app displaying humidity, air pressure, temperature, and future forecasts.
+- Appreciated the README for its inclusion of multiple pictures illustrating the app's capabilities and detailed explanations, including the developer's future plans.
+- [GitHub - Banana021s/Weather-Center](https://github.com/Banana021s/Weather-Center/blob/master/README.md)
